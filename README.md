@@ -7,7 +7,7 @@
 - 소비자 리뷰를 통한 인사이트 탐구 필요
 
 
-### 2. Research process
+### 2. Research Process
 #### 1) 데이터 수집 & 전처리
 - 크롤링한 데이터를 전처리 및 6가지 감성 라벨링 (맞춤법 검사, 불용어 처리)
 
@@ -24,7 +24,7 @@
 - 직접 입력한 테스트로 모델 성능 검사
 
 
-### 3. Model accuracy & result
+### 3. Model Accuracy & Result
 - Accuracy : 71%
 
 ![모델링 정확도](https://user-images.githubusercontent.com/40832965/154876416-4b75a56f-2d3b-4de3-8239-ca382d9f0bca.png)

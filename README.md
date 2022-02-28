@@ -33,6 +33,6 @@
 
 ![직접 입력한 데이터 예측 결과](https://user-images.githubusercontent.com/40832965/154876435-159bb934-48a9-4edd-8d81-34438b4c392f.png)
 
-### 4. Request
+### 4. Requirements
 - Google Colab / Jupyter
 - Python 3.x
